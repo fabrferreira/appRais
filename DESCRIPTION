@@ -1,0 +1,33 @@
+Package: appRais
+Title: Emprego formal no Estado da Bahia
+Version: 0.0.1.0000
+Authors@R: 
+    person(given = "Fabrício",
+           family = "Ferreira",
+           role = c("aut", "cre"),
+           email = "fabrferreiraecon@gmail.com")
+Description: What the package does (one paragraph).
+License: AGPL (>= 3)
+Imports: 
+    bsicons (>= 0.1.2),
+    bslib (>= 0.6.1),
+    config (>= 0.3.2),
+    dbplyr (>= 2.4.0),
+    dplyr (>= 1.1.4),
+    echarts4r (>= 0.4.5),
+    golem (>= 0.4.1),
+    htmlwidgets (>= 1.6.4),
+    pkgload (>= 1.3.4),
+    purrr (>= 1.0.2),
+    reactable (>= 0.4.4),
+    RSQLite (>= 2.3.5),
+    scales (>= 1.3.0),
+    shiny (>= 1.8.0),
+    shinycssloaders (>= 1.0.0),
+    shinyWidgets (>= 0.8.1),
+    tidyr (>= 1.3.0)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.1.9000
+URL: https://github.com/fabrferreira/appRais
+BugReports: https://github.com/fabrferreira/appRais/issues
